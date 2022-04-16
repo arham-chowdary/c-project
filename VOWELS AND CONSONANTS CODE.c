@@ -31,5 +31,7 @@ printf ("%c - vowel", alphabet);
 printf ("%c - consonant", alphabet);
   
 return 0;
-
+/*output:
+Enter an alphabet: z
+z - consonant*/
 
